@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+
+    <string name="bottom_navigation_title_home">Home</string>
+    <string name="bottom_navigation_title_dashboard">Dashboard</string>
+    <string name="bottom_navigation_title_notifications">Notifications</string>
+
+    <string name="viewpager_menu_me">Me</string>
+    <string name="viewpager_menu_discovery">Dicovery</string>
+    <string name="viewpager_menu_addressbook">Addressbook</string>
+    <string name="viewpager_menu_wechat">Wechat</string>
+
+</resources>
